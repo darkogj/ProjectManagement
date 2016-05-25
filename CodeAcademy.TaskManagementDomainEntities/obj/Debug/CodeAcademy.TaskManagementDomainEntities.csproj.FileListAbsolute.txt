@@ -1,0 +1,5 @@
+D:\ASP.NET Solutions\CodeAcademyTaskManagement\CodeAcademy.TaskManagementDomainEntities\bin\Debug\CodeAcademy.TaskManagementDomainEntities.dll
+D:\ASP.NET Solutions\CodeAcademyTaskManagement\CodeAcademy.TaskManagementDomainEntities\bin\Debug\CodeAcademy.TaskManagementDomainEntities.pdb
+D:\ASP.NET Solutions\CodeAcademyTaskManagement\CodeAcademy.TaskManagementDomainEntities\obj\Debug\CodeAcademy.TaskManagementDomainEntities.csprojResolveAssemblyReference.cache
+D:\ASP.NET Solutions\CodeAcademyTaskManagement\CodeAcademy.TaskManagementDomainEntities\obj\Debug\CodeAcademy.TaskManagementDomainEntities.dll
+D:\ASP.NET Solutions\CodeAcademyTaskManagement\CodeAcademy.TaskManagementDomainEntities\obj\Debug\CodeAcademy.TaskManagementDomainEntities.pdb
